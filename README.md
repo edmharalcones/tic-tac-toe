@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple Tic tac toe using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the interest of time , the game does  not have a reset button , a win counter and a winner alert. These are additions that I would like to incorporate once this project is improved upon.
 
 ## Available Scripts
 
